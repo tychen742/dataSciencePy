@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Science for Information Scientists
+title:            Introduction to Data Science
 description:      'Teaching the tools to get computers to do cool science'
 url:              http://github.io/tychen742/datascience
 baseurl:          /datascience
