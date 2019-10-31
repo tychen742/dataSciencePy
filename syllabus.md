@@ -128,11 +128,8 @@ This course contributes to the quantitative skills and conducting and analyzing 
 
 ### Teaching Philosophy
 
-This class is taught using a flipped, learner-centered approach, because
-learning to program and work with data requires actively working on
-computers. Flipped classes work well for all kinds of content, but I think they
-work particularly well for computer oriented classes.
-
+This class is taught using a flipped, learner-centered approach. Learning the concepts and skills to program and work with data require actively working on
+computers. A flipped class works well for the purpose by giving you the opportunity to laern through the "learning by doing" approach. Especially, the immediate feedback and collaborative learning help students with less coding experience. 
 
 ### Instructional Methods
 
