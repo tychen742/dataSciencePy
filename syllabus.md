@@ -34,19 +34,19 @@ Email (best way to contact us):
 Phone: {{ page.phone }}
 
 
-### Location
+#### Location
 
 {{location}}
 
 
-### Times
+#### Times
 
 {% for class in page.schedule %}
   {{ class }}
 {% endfor %}
 
 
-### Office Hours
+#### Office Hours
 
 Times: {{ page.office_hours }}
 
@@ -116,15 +116,14 @@ Students completing this course will be able to:
 * Extract information from databases
 * Write computer programs in R
 * Automate data analysis
-* Apply these tools to address information science questions
+* Apply these tools to address organization questions
 * Apply general data management and analysis concepts to other programming
   languages and database management systems
 
 
 ### How this course relates to the student learning outcomes 
 
-This course contributes to the quantitative Skills and conducting and
-analyzing independent/original research by providing students the skills and knowledge they need to manage and analyze the data used in research.
+This course contributes to the quantitative skills and conducting and analyzing independent/original research by providing students the skills and knowledge they need to manage and analyze the data used in research.
 
 
 ### Teaching Philosophy
