@@ -11,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            Data Science for Information Scientists
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://github.com/tychen742/datascience
+url:              http://github.io/tychen742/datascience
 baseurl:          /datascience
 email:            
 feedbackurl:      docs.google.com
@@ -20,5 +20,5 @@ author:
   url:            https://twitter.com/
 
 github:
-  repo:           https://github.com/tychen742/semester-biology
+  repo:           https://github.com/tychen742/datascience
   #               Be sure the 'Issues' feature is activated in 'Settings'
