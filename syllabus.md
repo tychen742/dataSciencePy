@@ -233,7 +233,7 @@ Exercises in assignments will be graded as follows:
 
 ### Grading scale
 
-- **A 93-100**
+- *A 93-100*
 - **A- 90-92.9**
 - **B+ 87-89.9**
 - **B 83-86.9**
