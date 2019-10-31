@@ -14,7 +14,7 @@ description:      'Teaching the tools to get computers to do cool science'
 url:              http://github.com/tychen742/semester-biology
 baseurl:          /semester-biology
 email:            
-feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
+feedbackurl:      docs.google.com
 author:
   name:           'TY Chen' 
   url:            https://twitter.com/

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
+catalog: LIS 3990
 credits: 3
-semester: Fall 2019
-professor: Dr. Ethan White (he/him)
-office: Room 1 in Building 150 (just north of Newins-Zeigler)
-email: ethanwhite@ufl.edu
-phone: 352-294-2081
-schedule: ['Tuesdays, 3-3:50', 'Fridays, 11:45-1:40']
-location: 222 Newins-Ziegler Hall
-office_hours: Monday 2-3:15
-office_hours_location: Newins-Zeigler 203
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
+semester: Fall 2020
+professor: Dr. TY Chen
+office: 
+email: 
+phone: 
+schedule: 
+location: 
+office_hours: 
+office_hours_location: 
+TA: 
+TA_email: 
 ---
 
 ## Course
