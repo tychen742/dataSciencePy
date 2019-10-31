@@ -16,13 +16,13 @@ TA:
 TA_email: 
 ---
 
-## Course
+## Course Information
 
 {{ site.title }}
 
 {{ page.catalog }}, {{ page.credits }} Credits, {{ page.semester }}
 
-### Instructor
+#### Instructor
 
 {{ page.professor }}
 
