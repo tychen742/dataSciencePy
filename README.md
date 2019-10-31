@@ -1,8 +1,7 @@
 # Introduction to Data Science - How to Think Like a Data Scientist
 
-
 This repository contains the complete teaching materials (excluding exams and
-answers to assignments) and [website](http://datacarpentry.org/semester-biology) for a university style and self-guided course teaching computational data skills to biologists. 
+answers to assignments) for a course in introductory data science. The course materials are based on a Data Carpentry [website](http://datacarpentry.org/semester-biology) and further collaboration may be done there. 
 
 
 
