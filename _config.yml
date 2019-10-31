@@ -17,7 +17,7 @@ email:
 feedbackurl:      docs.google.com
 author:
   name:           'TY Chen' 
-  url:            https://tychen.us/
+  url:            http://tychen.us/
 
 github:
   repo:           https://github.com/tychen742/datascience
