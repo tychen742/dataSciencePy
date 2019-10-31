@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Data Analytics for Information Science
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://github.com/tychen742/semester-biology
-baseurl:          /semester-biology
+url:              http://github.com/tychen742/datascience
+baseurl:          /datascience
 email:            
 feedbackurl:      docs.google.com
 author:
