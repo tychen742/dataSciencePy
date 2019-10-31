@@ -9,15 +9,15 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists
+title:            Data Science for Information Science
 description:      'Teaching the tools to get computers to do cool science'
 url:              http://github.com/tychen742/semester-biology
 baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+email:            
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'TY Chen' 
+  url:            https://twitter.com/
 
 github:
   repo:           https://github.com/tychen742/semester-biology
