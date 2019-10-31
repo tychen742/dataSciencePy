@@ -50,11 +50,7 @@ Phone: {{ page.phone }}
 
 Times: {{ page.office_hours }}
 
-Location: {{ page.office_hours_location }}
-
-Or by appointment. *Note: my schedule gets very busy during the semester so
-please try to schedule appointments as far in advance as possible. In general it
-will be very difficult to set up appointments less than 24 hours in advance.*
+Location: {{ page.office_hours_location }} or by appointment.
 
 
 ### Teaching Assistant
