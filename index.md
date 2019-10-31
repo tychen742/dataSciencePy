@@ -5,9 +5,9 @@ layout: default
 This website hosts introductory material for learning ways to interact with data, including: 
 **data structure**, **database management systems**, and **programming** 
 for 
-**data manipulation**, - **data analysis**, and **data visualization**. 
+**data manipulation**, **data analysis**, and **data visualization**. 
 
-This course started based on the a datacarpentry.org course [website](http://datacarpentry.org/semester-biology/) and design idea is that this is a flipped university course. 
+ and design idea is that this is a flipped university course. 
 
 For Students
 : <a href="{{ site.baseurl}}/syllabus">
@@ -37,4 +37,4 @@ For Instructors
 : <a href="{{ site.baseurl}}/docs">
   <i class="fa fa-question-circle fa-fw"></i> Course Development Help</a>
 
-Instructors are welcome to modify and use the material for your own courses. We encourage collaborative development and contributions by instructors, with the hopes that this will lead to better training and resources for everyone. 
+This course started based on the a datacarpentry.org course [website](http://datacarpentry.org/semester-biology/). Instructors are welcome to modify and use the material for your own courses. Collaborative development and contributions by instructors are encouraged, with the hopes that this will lead to better training and resources for everyone.
