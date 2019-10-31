@@ -1,4 +1,4 @@
-# Data Carpentry for Biologists - Semester Course
+# Introduction to Data Science - How to Think Like a Data Scientist
 
 [![DOI](https://zenodo.org/badge/31911336.svg)](https://zenodo.org/badge/latestdoi/31911336)
 
