@@ -11,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            Data Carpentry for Biologists
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
+url:              http://github.com/tychen742/semester-biology
 baseurl:          /semester-biology
 email:            datacarpentrysemester@weecology.org
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
@@ -20,5 +20,5 @@ author:
   url:            https://twitter.com/ethanwhite
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/tychen742/semester-biology
   #               Be sure the 'Issues' feature is activated in 'Settings'
