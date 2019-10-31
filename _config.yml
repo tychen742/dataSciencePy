@@ -10,7 +10,7 @@ permalink:        pretty
 
 # Setup
 title:            Introduction to Data Science
-description:      'Teaching the tools to get computers to do cool science'
+description:      'How to think like a data scientist'
 url:              http://github.io/tychen742/datascience
 baseurl:          /datascience
 email:            

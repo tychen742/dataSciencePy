@@ -7,7 +7,7 @@ This website hosts introductory material for learning ways to interact with data
 for 
 **data manipulation**, **data analysis**, and **data visualization**. 
 
-The course design idea is that this is a flipped university course, which means students are required to review course material before they come to the classroom for exercise activities and practice. 
+The course design idea is that this is a flipped university course, which means students are required to review course material **before** they come to the classroom for exercise activities and practice. 
 
 For Students
 : <a href="{{ site.baseurl}}/syllabus">
