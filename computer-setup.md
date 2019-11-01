@@ -3,7 +3,7 @@ layout: page
 title: Computer Setup
 ---
 
-***WIS 6934 students will need their own laptops set up with R by week 2, Git by week 10, and SQL by week 13.***
+***We will use R starting week 2 and gradually introduce Git and SQL. You are encouraged to set up your computer during the first week so you will be ready when we bring them up in class.***
 
 ### R
 
@@ -11,17 +11,15 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
 
 ### GitHub
 
-1. Create an account on GitHub (https://github.com) using the `Sign up for
-   GitHub` form on the right side of the page.
+1. Create an account on GitHub (https://github.com).
 2. Email your username to your instructor.
-3. Once your instructor adds you to the course GitHub organization you will
-   receive an email asking you to accept the invitation. Click on the link to
-   accept.
+3. Once your instructor adds you to the course GitHub organization, you will
+   receive an email asking you to accept the invitation. Click on the link to accept.
 4. Check if this worked
     1. Go to [https://github.com](https://github.com).
     2. Sign in if necessary.
     3. In the upper left corner click on the drop down with your name.
-    4. Confirm that the name name of the course GitHub organization is present
+    4. Confirm that the name of the course GitHub organization is present.
 
 ### Git
 
@@ -65,8 +63,7 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
 If the git installation didn't work (i.e., you don't get the expect result from
 Step 5), try the following:
 
-For **OS X 10.9 and higher**, install Git for Mac by downloading and running the
-most recent "mavericks" installer from
+For **OS X 10.9 and higher**, install Git for Mac by downloading and running the most recent "mavericks" installer from
 [this list](http://sourceforge.net/projects/git-osx-installer/files/).  After
 installing Git, there will not be anything in your `/Applications` folder, as
 Git is a command line program. For older versions of **OS X (10.5-10.8)**
@@ -92,11 +89,4 @@ and for Fedora run `sudo yum install git`.
 ### SQL
 
 Download and install [DB Browser for SQLite](http://sqlitebrowser.org/)
-### Python
 
-*Python installation is not required for WIS 6934. Python materials on this site
-are no longer under active development.*
-
-Download and install the
-[Anaconda Scientific Python Distribution](http://continuum.io/downloads).
-I recommend you use a special editor like the [Wing Intelligent Development Environment - 101](http://wingware.com/downloads/wingide-101).
