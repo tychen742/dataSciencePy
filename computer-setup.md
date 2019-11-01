@@ -25,14 +25,14 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
 
 #### Windows
 
-1.  Download the Git for Windows
-    [installer](https://git-for-windows.github.io/).
+1.  Install Git for Windows
+    [installer](https://gitforwindows.org/).
 2.  Run the installer and follow the steps bellow:
     1. Click on "Next".
     2. Click on "Next".
     3. Keep "Use Git from the Windows Command Prompt" selected and click on
-       "Next". If you forgot to do the integration with R will not work
-       properly. If this happens rerun the installer and select the appropriate
+       "Next". If you forgot to do the integration, with R will not work
+       properly. If this happens, rerun the installer and select the appropriate
        option.
     4. Click on "Next".
     5. Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
@@ -44,31 +44,26 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
     2. File -> New Project -> Version Control -> Git
     3. If you reach a page called `Clone Git Repository` with some fields to fill out everything is working
 
-#### Mac OS X
-
-1. Open up the Terminal, type in "git" and press enter.
-2. This should cause a pop-up window to appear. It will have several options;
+#### macOS 
+*There are two ways to install git on your macOS. Pick one.*
+1. Install through macOS Terminal:
+    1. Open up the Terminal (command+space), type in "git" and press enter.
+    2. This should cause a pop-up window to appear. It will have several options;
    click on "Install" (not "Get Xcode").
-3. Click "Agree".
-4. When the install is finished, click "Done".
-5. To make sure this worked, type in "git" in the Terminal and press enter. Some
+    3. Click "Agree".
+    4. When the install is finished, click "Done".
+    5. To make sure this worked, type in "git" in the Terminal and press enter. Some
    information will come up, including a list of common commands. If this
-   doesn't work see additional instructions below.
-6. Check if git and RStudio are talking to each other:
+   doesn't work, see additional instructions below.
+2. Instal through the [git website](https://git-scm.com/) by downloading the lastest release. 
+
+3. Check if git and RStudio are talking to each other:
     1. Open RStudio
     2. File -> New Project -> Version Control -> Git
     3. If you reach a page called `Clone Git Repository` with some fields to
        fill out everything is working
 
-If the git installation didn't work (i.e., you don't get the expect result from
-Step 5), try the following:
 
-For **OS X 10.9 and higher**, install Git for Mac by downloading and running the most recent "mavericks" installer from
-[this list](http://sourceforge.net/projects/git-osx-installer/files/).  After
-installing Git, there will not be anything in your `/Applications` folder, as
-Git is a command line program. For older versions of **OS X (10.5-10.8)**
-use the most recent available installer labelled "snow-leopard" [available
-here](http://sourceforge.net/projects/git-osx-installer/files/.)
 
 If git and RStudio aren't talking to each other (i.e., you don't get the expect
 result from Step 6), try the following:
