@@ -9,7 +9,7 @@ title: About
 <a href="{{ site.baseurl}}/docs">
 <i class="fa fa-question-circle fa-fw"></i> Course Development Help</a>
 
-{% if site.github.repo == 'https://github.com/datacarpentry/semester-biology' %}
+{% if site.github.repo == 'https://github.com/tychen742/datascience' %}
 Contact Us
 : <a href="{{ site.github.repo }}"> 
   <i class="fa fa-github fa-fw"></i> On GitHub</a>
