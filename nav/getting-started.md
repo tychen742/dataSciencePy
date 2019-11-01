@@ -3,10 +3,6 @@ layout: page
 title: Getting Started
 ---
 
-Self-Guided Students
-: <a href="{{ site.baseurl}}/START-for-self-guided-students">
-  <i class="fa fa-play-circle fa-fw"></i> Start Here</a>
-
 Semester-long Course Students
 : <a href="{{ site.baseurl}}/computer-setup">
   <i class="fa fa-download fa-fw"></i> Setup</a>
@@ -20,3 +16,7 @@ For Instructors
   <i class="fa fa-university fa-fw"></i> Course Materials</a>
 : <a href="{{ site.baseurl}}/docs">
   <i class="fa fa-question-circle fa-fw"></i> Course Development Documentation</a>
+
+Self-Guided Students
+: <a href="{{ site.baseurl}}/START-for-self-guided-students">
+  <i class="fa fa-play-circle fa-fw"></i> Start Here</a>
