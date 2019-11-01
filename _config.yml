@@ -22,4 +22,4 @@ author:
 github:
   repo:           https://github.com/tychen742/datascience
   #               Be sure the 'Issues' feature is activated in 'Settings'
-theme:            minima
+# theme:            minima
