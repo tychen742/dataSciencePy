@@ -12,12 +12,14 @@ Course Students
   <i class="fa fa-calendar fa-fw"></i> Schedule</a>
 
 
+Self-Guided Students
+: <a href="{{ site.baseurl}}/START-for-self-guided-students">
+  <i class="fa fa-play-circle fa-fw"></i> Start Here</a>
+  
 For Instructors
 : <a href="{{ site.baseurl}}/nav/course-materials">
   <i class="fa fa-university fa-fw"></i> Course Materials</a>
 : <a href="{{ site.baseurl}}/docs">
   <i class="fa fa-question-circle fa-fw"></i> Course Development Documentation</a>
 
-Self-Guided Students
-: <a href="{{ site.baseurl}}/START-for-self-guided-students">
-  <i class="fa fa-play-circle fa-fw"></i> Start Here</a>
+
