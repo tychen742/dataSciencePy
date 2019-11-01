@@ -2,6 +2,3 @@
 
 This repository contains the complete teaching materials (excluding exams and
 answers to assignments) for a course in introductory data science. The course materials are based on a Data Carpentry [website](http://datacarpentry.org/semester-biology) and collaborative may be better achieved there. 
-
-
-
