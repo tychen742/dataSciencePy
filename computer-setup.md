@@ -66,7 +66,7 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
 
 
 If git and RStudio aren't talking to each other (i.e., you don't get the expect
-result from Step 6), try the following:
+result from Step 3 above), try the following:
 
 1. Open RStudio
 2. Select the `Tools` menu -> `Global Options` -> `Git/SVN`
@@ -78,7 +78,7 @@ result from Step 6), try the following:
 #### Linux
 
 Git is probably already installed. If it is not already available install it via
-your distro's package manager. For Debian/Ubuntu run `sudo apt-get install git`
+your distro's package manager. For Debian/Ubuntu run `sudo apt install git`
 and for Fedora run `sudo yum install git`.
 
 ### SQL
