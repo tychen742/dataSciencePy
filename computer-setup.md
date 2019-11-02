@@ -52,7 +52,7 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
    click on "Install" (not "Get Xcode").
     3. Click "Agree".
     4. When the install is finished, click "Done".
-    5. To make sure this worked, type in "git" in the Terminal and press enter. Some
+    5. To make sure this works, type in "git" in the Terminal and press enter. Some
    information will come up, including a list of common commands. If this
    doesn't work, see additional instructions below.
 2. Instal through the [git website](https://git-scm.com/) by downloading the lastest release. 

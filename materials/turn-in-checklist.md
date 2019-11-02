@@ -3,8 +3,6 @@ layout: page
 title: Assignment Submission & Checklist
 ---
 
-- All assignments should be submitted through [Canvas](http://ufl.instructure.com/)
-
 - What files to submit: 
     - **Week 1** - one text form, one .xlsx file
     - **Weeks 2-9** - a zip file containing one .R file, one .Rproj file, & any data files needed to run it
