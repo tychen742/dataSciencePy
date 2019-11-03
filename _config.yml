@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Introduction to Data Science
+title:            Intro to Data Science w/ R
 description:      'How to think like a data scientist'
 url:              https://tychen742.github.io/datascience
 baseurl:          /datascience
