@@ -37,4 +37,4 @@ For Instructors
 : <a href="{{ site.baseurl}}/docs">
   <i class="fa fa-question-circle fa-fw"></i> Course Development Help</a>
 
-This course started based on the a datacarpentry.org course [website](http://datacarpentry.org/semester-biology/). Instructors are welcome to modify and use the material for your own courses. Collaborative development and contributions by instructors are encouraged, with the hopes that this will lead to better training and resources for everyone. You are welcome to fork this or the [datacarpentry.org site](https://github.com/datacarpentry/semester-biology) for collaborative development.  
+This course started based on the a datacarpentry.org course [website](http://datacarpentry.org/semester-biology/). Instructors are welcome to modify and use the material for your own courses. Collaborative development and contributions by instructors are encouraged, with the hopes that this will lead to better training and resources for everyone through the [datacarpentry.org site](https://github.com/datacarpentry/semester-biology).  
