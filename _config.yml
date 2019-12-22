@@ -12,7 +12,7 @@ permalink:        pretty
 title:            Data Science w/ R
 description:      'How to think like a data scientist'
 url:              https://datascience.tychen.us/
-baseurl:          /datascience
+baseurl:          
 email:            
 feedbackurl:      docs.google.com
 author:
