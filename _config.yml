@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+kramdown:
+  input:          GFM
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Intro to Data Science w/ R
+description:      'How to think like a data scientist'
+url:              https://tychen742.github.io/datascience
+baseurl:          /datascience
+email:            
+feedbackurl:      docs.google.com
+author:
+  name:           'TY Chen' 
+  url:            http://tychen.us/
+
+github:
+  repo:           https://github.com/tychen742/datascience
+  #               Be sure the 'Issues' feature is activated in 'Settings'
+# theme:            minima
