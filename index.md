@@ -22,8 +22,7 @@ For Students
   <i class="fa fa-play-circle fa-fw"></i> Self-Guided Start-Up Guide</a>
 : <a href="{{ site.baseurl}}/materials/datasets">
   <i class="fa fa-download fa-fw"></i> Datasets</a>
----
----
+
 
 For Instructors 
 : <a href="{{ site.baseurl}}/readings">
