@@ -6,8 +6,9 @@ title: Audience
 The long-term goal of this site is to help two large groups of people:
 1) Students in a classroom at a college or university; and 
 2) Free-range learners, or folks who aren't taking a formal class and are interested
-in learning online on their own time. We are starting with the classroom
-students and then attempting to build on the material generated to make
+in learning online on their own time. 
+
+We are starting with the classroom students and then attempting to build on the material generated to make
 it maximally useful to the broader audience of learners of information technology who want to learn how to use programming and database management systems. We are interested in helping folks who are complete beginners and those who already have some programming background.
 
 To encourage folks to use this material all of the general material on this site is [licensed]({{ site.baseurl }}/LICENSE) under the Creative Commons Attribution License and all programs are [licensed]({{ site.baseurl }}/LICENSE) under the MIT License. 
@@ -15,7 +16,7 @@ To encourage folks to use this material all of the general material on this site
 
 Examples of folks who we are trying to help:
 
-**Leah** An undergraudate student who thinks learning about coding and data analysis is more fun than the other available electives. She has never programmed before and doesn't really know what a database is.
+**Leah** An undergraduate student who thinks learning about coding and data analysis is more fun than the other available electives. She has never programmed before and doesn't really know what a database is.
 
 **Kai:** An undergraduate student in an information science and technology-related field who has taken some IT courses and realizes that data science skills are going to be important in whatever area of computational technology he ends up working or likes computers. 
 
