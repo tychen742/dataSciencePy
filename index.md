@@ -24,8 +24,7 @@ For Students
   <i class="fa fa-download fa-fw"></i> Datasets</a>
 
 
-
-** For Instructors ** 
+For Instructors
 : <a href="{{ site.baseurl}}/readings">
   <i class="fa fa-book fa-fw"></i> Readings</a>
 : <a href="{{ site.baseurl}}/lectures">
