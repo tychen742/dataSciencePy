@@ -4,8 +4,13 @@ title: Audience
 ---
 
 The long-term goal of this site is to help two large groups of people:
+<<<<<<< HEAD
 1) Students in a classroom at a college or university; and 2) Free-range
 learners, or folks who aren't taking a formal class and are interested
+=======
+1) Students in a classroom at a college or university; and 
+2) Free-range learners, or folks who aren't taking a formal class and are interested
+>>>>>>> update
 in learning online on their own time. We are starting with the classroom
 students and then attempting to build on the material generated to make
 it maximally useful to the broader audience of learners of information technology who want to learn how to use programming and database management systems. We are interested in helping folks who are complete beginners and those who already have some programming background.
