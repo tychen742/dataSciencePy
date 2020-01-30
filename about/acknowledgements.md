@@ -2,7 +2,11 @@
 layout: page
 title: Acknowledgments
 ---
+<<<<<<< HEAD
 The structure of this course is based on a Data Carpentry course website(http://datacarpentry.org/semester-biology). Contribution information is as below. 
+=======
+The structure of this course is based on a Data Carpentry course website(http://datacarpentry.org/semester-biology). Contribution infomration is as below. 
+>>>>>>> 3a1cc916ac7f9b85e864e1f063319cfab1607429
 
 #### Primary Contributors
 
