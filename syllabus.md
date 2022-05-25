@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Syllabus
-catalog: LIS 3990
-credits: 3
-semester: Fall 2020
-professor: Dr. TY Chen
+catalog: 
+credits: 
+semester: 
+professor: TY Chen, Ph.D.
 office: 
 email: 
 phone: 
@@ -225,14 +225,6 @@ Exercises in assignments will be graded as follows:
 
 ### Grading scale
 
-- *A 93-100*
-- **A- 90-92.9**
-- **B+ 87-89.9**
-- **B 83-86.9**
-- **B- 80-82.9**
-- **C+ 77-79.9**
-- **C 73-76.9**
-- **C- 70-72.9**
 
 ### University grading policies for assigning grade points
 
