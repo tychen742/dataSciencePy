@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 # <nbformat>3.0</nbformat>
 
@@ -442,4 +441,3 @@ pca = stats.princomp(m)
 graphics.plot(pca, main = "Eigen values")
 stats.biplot(pca, main = "biplot")
 
->>>>>>> 3a1cc916ac7f9b85e864e1f063319cfab1607429
