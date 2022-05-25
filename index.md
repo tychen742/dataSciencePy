@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This website hosts introductory material for learning ways to interact with data, including: 
+This course covers topics in introductory data science using Python: 
 <li>programming</li> 
 <li>database management systems</li> 
 <li>data structure</li>
