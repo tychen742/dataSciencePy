@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Compare the abundance time-series of large (>50 g)
 # and small (<50 g) small mammals
 
@@ -126,4 +125,4 @@ data <- get_data()
 data_size_class <- add_size_classes(data)
 ts_data <- get_size_class_ts_data(data)
 plot_ts_data(ts_data)
->>>>>>> 3a1cc916ac7f9b85e864e1f063319cfab1607429
+
