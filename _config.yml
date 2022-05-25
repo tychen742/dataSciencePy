@@ -10,7 +10,7 @@ permalink:        pretty
 
 # Setup
 
-title:            Data Science w/ R
+title:            Data Science with Python
 description:      'How to think like a data scientist'
 url:              https://datasciencepy.tychen.us/
 baseurl:          
@@ -19,10 +19,10 @@ feedbackurl:
 author:
   name:           'TY Chen' 
 
-  url:            http://tychen.us/
+  url:            https://tychen.us/
 
 github:
-  repo:           https://github.com/tychen742/datascience
+  repo:           https://github.com/tychen742/dataSciencePy
   #               Be sure the 'Issues' feature is activated in 'Settings'
 # theme:            minima
 theme: jekyll-theme-minimal
