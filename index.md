@@ -3,9 +3,13 @@ layout: default
 ---
 
 This website hosts introductory material for learning ways to interact with data, including: 
-**data structure**, **database management systems**, and **programming** 
+<li>programming</li> 
+<li>database management systems</li>, and 
+<li>data structure</li>
 for 
-**data manipulation**, **data analysis**, and **data visualization**. 
+<li>data manipulation</li>, 
+<li>data analysis</li>, and 
+<li>data visualization </li>. 
 
 The course design idea is that this is a flipped university course, which means students are required to review course material **before** they come to the classroom for exercise activities and practice. 
 
