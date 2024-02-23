@@ -7,7 +7,7 @@ language: R
    
 * Topics
 
-  * R & RStudio
+  * Python & VS Code
   * Expressions & Variables
   * Types
   * Errors
@@ -17,6 +17,6 @@ language: R
 
 * Readings
 
-  * [Getting Started](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html)
-  * [Introduction to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-  * [Starting with data (**only through "Inspecting data.frame Objects"**)](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
+  * [Getting Started](https://datacarpentry.org/python-ecology-lesson/00-before-we-start.html)
+  * [Introduction to Python](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python.html)
+  * [Starting with data (**Pandas DataFrame Objects"**)](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
