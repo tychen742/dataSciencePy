@@ -1,18 +1,18 @@
 ---
 layout: page
 element: notes
-title: Introduction to R
-language: R
+title: Introduction to Python
+language: Python
 ---
 
-> Remind students to install R and RStudio.
+> Remind students to install Python, VS Code, and Jupyter Notebook.
 
-> Have students open RStudio and check to see if console "sees" R.
+> Have students open VS Code and .venv and check to see if the Python shell works.
 
-### R
+### Python
 
 * Programming language
-* Statistics and data analysis environment
+* Popular for data analysis and visualization
 
 
 ### RStudio
