@@ -1,13 +1,13 @@
 ---
 layout: page
 element: reading
-title: Introduction to R and RStudio
-language: R
+title: Introduction to Python and VS Code/Jupyter Notebook
+language: Python
 ---
    
 * Topics
 
-  * Python & VS Code
+  * Python, VS Code, and Jupyter Notebook
   * Expressions & Variables
   * Types
   * Errors
