@@ -15,10 +15,10 @@ language: Python
 * Popular for data analysis and visualization
 
 
-### RStudio
+### VS Code
 
-* IDE - Integrated Development Environment
-    * Interpreter/Console
+* IDE - Integrated Development Environment (personalized)
+    * Interpreter/Shell
     * Text editor
         * object highlighting 
         * information about problems with code
@@ -28,11 +28,11 @@ language: Python
     * Environment/History
     * Project management
 
-> Create new folder for scripts
+> Create a new folder for scripts
 
 ### Basic expressions
 
-* Write code directly in the interpreter
+* Write code directly in Python shell
 * Kangaroo rat weight (g -> lb)
 
 ```
@@ -41,7 +41,7 @@ language: Python
 50 / 1000 * 2.2
 ```
 
-* Write code in text editor and run either by line or all code
+* Write code in the text editor and run either by line or all code
 
 ```
 50
@@ -51,7 +51,7 @@ language: Python
 
 * `Source` vs `Source with Echo`
 
-> Create notes R script, put in new folder
+> Create notes Python script, put in a new folder
 
 
 ### Variables
