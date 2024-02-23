@@ -28,7 +28,7 @@ TA_email:
 
 Office: {{ page.office }}
 
-Email (best way to contact us):
+Email: (use Canvas Inbox)
 [{{ page.email }}](mailto:{{ page.email }})
 
 Phone: {{ page.phone }}
