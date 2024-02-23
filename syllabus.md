@@ -7,7 +7,7 @@ semester: Fall Semester
 professor: Tsangyao (T.Y.) Chen, Ph.D.
 office: Fulton 102C
 email: 
-// phone: 
+phone: 
 schedule: 
 location: 
 office_hours: See Joess or by appointment
@@ -31,12 +31,12 @@ Office: {{ page.office }}
 Email: (use Canvas Inbox)
 [{{ page.email }}](mailto:{{ page.email }})
 
-Phone: {{ page.phone }}
+# Phone: {{ page.phone }}
 
 
 #### Location
 
-{{location}}
+# {{location}}
 
 
 #### Times
