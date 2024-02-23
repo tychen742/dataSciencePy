@@ -31,12 +31,12 @@ Office: {{ page.office }}
 Email: (use Canvas Inbox)
 [{{ page.email }}](mailto:{{ page.email }})
 
-# Phone: {{ page.phone }}
+// # Phone: {{ page.phone }}
 
 
-#### Location
+// #### Location
 
-// # {{location}}
+// {{location}}
 
 
 #### Times
@@ -75,7 +75,7 @@ Email: [{{ page.email }}](mailto:{{ page.email }})
 
 ### Required Texts
 
-There is no required text book for this class.
+There is no required textbook for this class.
 
 All needed material is openly available on the course website. If you are
 interested in additional reading on the topics we are covering I highly
@@ -96,7 +96,7 @@ Knowledge of basic information science to provide context for exercises.
 
 ### Purpose of Course
 
-In this course you will learn all of the fundamental aspects of computer
+In this course, you will learn all of the fundamental aspects of computer
 programming that are necessary for conducting biological research. By the end of
 the course, you will be able to use these tools to import data into R, perform
 analysis on that data, and export the results to graphs, text files, and
@@ -108,26 +108,25 @@ be able to do more science faster and think as an information scientist informed
 
 Students completing this course will be able to:
 
-* Create well structured databases
+* Create well-structured databases
 * Extract information from databases
 * Write computer programs in R
 * Automate data analysis
-* Apply these tools to address organization questions
 * Apply general data management and analysis concepts to other programming
   languages and database management systems
 
 
-### How this course relates to the student learning outcomes 
+// ### How this course relates to the student learning outcomes 
 
-This course contributes to the quantitative skills and conducting and analyzing independent/original research by providing students the skills and knowledge they need to manage and analyze the data used in research.
+// This course contributes to quantitative skills and conducting and analyzing independent/original research by providing students the skills and knowledge they need to manage and analyze the data used in research.
 
 
-### Teaching Philosophy
+// ### Teaching Philosophy
 
 This class is taught using a flipped, learner-centered approach. Learning the concepts and skills to program and work with data require actively working on
 computers. A flipped class works well for the purpose by giving you the opportunity to laern through the "learning by doing" approach. Especially, the immediate feedback and collaborative learning help students with less coding experience. 
 
-### Instructional Methods
+// ### Instructional Methods
 
 As a flipped classroom, students are provided with either reading or video
 material that they are expected to view/read prior to class. Classes will
@@ -141,33 +140,33 @@ are attempting to solve. For more challenging topics, class may start with 20-30
 minute demonstrations on the concepts followed by time to work on exercises.
 
 
-## Course Policies
+// ## Course Policies
 
 
-### Attendance Policy
+// ### Attendance Policy
 
 Attendance will not be taken or factor into the grades for this class. However,
 experience suggests that students who regularly miss class struggle to learn the
 material.
 
 
-### Quiz/Exam Policy
+// ### Quiz/Exam Policy
 
 There are no quizzes or exams in this course.
 
 
-### Make-up policy
+// ### Make-up policy
 
 Life surprises us from time to time and therefore there is an automatic grace period of 48 hours for the submission of late assignments with no need to request an extension. However, it is highly recommended that you submit assignments on time when possible because assignments build on one another and it can be hard to catch up if you fall behind. Reasonable requests for longer extensions will also be granted. Assignments turned in after the 48 hour grace period without an extension will be be graded with a 20% penalty.
 
 
-### Assignment policy
+// ### Assignment policy
 
 Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
 submitted via Canvas. This timing allows you to be finished with one week's material before starting the next week's material.
 
 
-### Course Technology
+// ### Course Technology
 
 Students are required to provide their own laptops and to install free and open
 source software on those laptops (see [Setup]({{ site.baseurl }}/computer-setup)
