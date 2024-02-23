@@ -11,10 +11,10 @@ points: [10, 10, 10, 10, 10, 10, 15, 10, 15]
 
 > Following this assignment students should be able to:
 >
-> - execute simple math in the R console
+> - execute simple math in the Python shell
 > - assign and manipulate variables
 > - use built-in functions for math and stats
-> - understand the assignment and execute flow of an R script
+> - understand the assignment and execution flow of a Python script
 > - understand the vector and data frame object structures
 > - assign, subset, and manipulate data in a vector
 > - execute vector algebra
