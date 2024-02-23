@@ -1,7 +1,7 @@
 ---
 layout: page
 element: lecture
-title: Introduction to R and RStudio
+title: Introduction to Python and VS Code/Jupyter Notebook
 language: R
 ---
 
