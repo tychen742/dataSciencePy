@@ -223,25 +223,25 @@ Exercises in assignments will be graded as follows:
 * Answer demonstrates a lack of understanding of the core concept: 0%
 
 
-### Grading scale
+// ### Grading scale
 
 
-### University grading policies for assigning grade points
+// ### University grading policies for assigning grade points
 
 
-## Campus Helping Resources
+// ## Campus Helping Resources
 
 
-### Health and Wellness 
+// ### Health and Wellness 
 
 
-### Academic Resources
+// ### Academic Resources
 
 
-### Student Complaints
+// ### Student Complaints
 
 
-## Course Schedule
+// ## Course Schedule
 
 The details course schedule is available on the course website at:
 [{{ site.url }}/schedule]({{ site.baseurl }}/schedule).
