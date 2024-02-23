@@ -31,12 +31,12 @@ Office: {{ page.office }}
 Email: (use Canvas Inbox)
 [{{ page.email }}](mailto:{{ page.email }})
 
-// # Phone: {{ page.phone }}
+# Phone: {{ page.phone }}
 
 
-// #### Location
+#### Location
 
-// {{location}}
+{{location}}
 
 
 #### Times
@@ -68,11 +68,11 @@ Changes to the schedule will be posted to this site so please try to check it
 periodically for updates.
 
 
-// ### Course Communications
+### Course Communications
 
 Email: [{{ page.email }}](mailto:{{ page.email }})
 
-
+<!--
 ### Required Texts
 
 There is no required textbook for this class.
@@ -116,62 +116,62 @@ Students completing this course will be able to:
   languages and database management systems
 
 
-// ### How this course relates to the student learning outcomes 
+### How this course relates to the student learning outcomes 
 
-// This course contributes to quantitative skills and conducting and analyzing independent/original research by providing students the skills and knowledge they need to manage and analyze the data used in research.
+This course contributes to quantitative skills and conducting and analyzing independent/original research by providing students the skills and knowledge they need to manage and analyze the data used in research.
 
 
-// ### Teaching Philosophy
+### Teaching Philosophy
 
 This class is taught using a flipped, learner-centered approach. Learning the concepts and skills to program and work with data require actively working on
 computers. A flipped class works well for the purpose by giving you the opportunity to laern through the "learning by doing" approach. Especially, the immediate feedback and collaborative learning help students with less coding experience. 
 
-// ### Instructional Methods
+### Instructional Methods
 
-As a flipped classroom, students are provided with either reading or video
-material that they are expected to view/read prior to class. Classes will
+In a flipped classroom, students are provided with either reading or video
+material that they are expected to view/read before class. Classes will
 involve brief refreshers on new concepts followed by working on exercises in
-class that cover that concept. While students are working on exercises, the
-instructor will actively engage with students to help them understand material
-they find confusing, explain misunderstandings, help identify mistakes that
-are preventing students from completing the exercises, and discuss novel
+the class that covers that concept. While students are working on exercises, the
+instructor will actively engage with students to help them understand the material
+they find confusing, explain misunderstandings, and help identify mistakes that
+are preventing students from completing the exercises, and discussing the novel
 applications and alternative approaches to the data analysis challenges students
-are attempting to solve. For more challenging topics, class may start with 20-30
+are attempting to solve. For more challenging topics, the class may start with 20-30
 minute demonstrations on the concepts followed by time to work on exercises.
 
 
-// ## Course Policies
+## Course Policies
 
 
-// ### Attendance Policy
+### Attendance Policy
 
 Attendance will not be taken or factor into the grades for this class. However,
 experience suggests that students who regularly miss class struggle to learn the
 material.
 
 
-// ### Quiz/Exam Policy
+### Quiz/Exam Policy
 
 There are no quizzes or exams in this course.
 
 
-// ### Make-up policy
+### Make-up policy
 
 Life surprises us from time to time and therefore there is an automatic grace period of 48 hours for the submission of late assignments with no need to request an extension. However, it is highly recommended that you submit assignments on time when possible because assignments build on one another and it can be hard to catch up if you fall behind. Reasonable requests for longer extensions will also be granted. Assignments turned in after the 48 hour grace period without an extension will be be graded with a 20% penalty.
 
 
-// ### Assignment policy
+### Assignment policy
 
 Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
 submitted via Canvas. This timing allows you to be finished with one week's material before starting the next week's material.
 
 
-// ### Course Technology
+### Course Technology
 
 Students are required to provide their own laptops and to install free and open
 source software on those laptops (see [Setup]({{ site.baseurl }}/computer-setup)
 for installation instructions). Support will be provided by the instructor in
-the installation of required software. If you don't have access to a laptop,
+the installation of the required software. If you don't have access to a laptop,
 please contact the instructor and they will do their best to provide you with
 one.
 
@@ -195,8 +195,8 @@ There are no materials and supplies fees for this course.
 
 ### Netiquette and Communication Courtesy
 
-All members of the class are expected to follow rules of common
-courtesy in all email messages, threaded discussions and chats.
+All members of the class are expected to follow the rules of the common
+courtesy in all email messages, threaded discussions, and chats.
 
 
 ### Academic Honesty
@@ -222,25 +222,27 @@ Exercises in assignments will be graded as follows:
 * Answer demonstrates a lack of understanding of the core concept: 0%
 
 
-// ### Grading scale
+### Grading scale
 
 
-// ### University grading policies for assigning grade points
+### University grading policies for assigning grade points
 
 
-// ## Campus Helping Resources
+ ## Campus Helping Resources
 
 
-// ### Health and Wellness 
+ ### Health and Wellness 
 
 
-// ### Academic Resources
+ ### Academic Resources
 
 
-// ### Student Complaints
+ ### Student Complaints
 
 
-// ## Course Schedule
+ ## Course Schedule
+
+ -->
 
 The details course schedule is available on the course website at:
 [{{ site.url }}/schedule]({{ site.baseurl }}/schedule).
