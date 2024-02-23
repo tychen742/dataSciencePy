@@ -11,7 +11,7 @@ phone:
 schedule: 
 location: 
 office_hours: See Joess or by appointment
-office_hours_location: 
+office_hours_location: (by appointment)
 TA: 
 TA_email: 
 ---
@@ -36,7 +36,7 @@ Email: (use Canvas Inbox)
 
 #### Location
 
-# {{location}}
+// # {{location}}
 
 
 #### Times
@@ -68,7 +68,7 @@ Changes to the schedule will be posted to this site so please try to check it
 periodically for updates.
 
 
-### Course Communications
+// ### Course Communications
 
 Email: [{{ page.email }}](mailto:{{ page.email }})
 
