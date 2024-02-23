@@ -10,7 +10,7 @@ email:
 phone: 
 schedule: 
 location: 
-office_hours: See Joess or by appointmnet
+office_hours: See Joess or by appointment
 office_hours_location: 
 TA: 
 TA_email: 
