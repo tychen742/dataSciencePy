@@ -4,7 +4,7 @@ title: Syllabus
 catalog: 
 credits: 
 semester: 
-professor: TY Chen, Ph.D.
+professor: Tsangyao (T.Y.) Chen, Ph.D.
 office: 
 email: 
 phone: 
