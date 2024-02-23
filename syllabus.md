@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Syllabus
-catalog: 
+catalog: IST
 credits: 3
 semester: Fall Semester
 professor: Tsangyao (T.Y.) Chen, Ph.D.
 office: Fulton 102C
 email: 
-phone: 
+// phone: 
 schedule: 
 location: 
 office_hours: See Joess or by appointment
