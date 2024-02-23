@@ -2,15 +2,15 @@
 layout: page
 title: Syllabus
 catalog: 
-credits: 
-semester: 
+credits: 3
+semester: Fall
 professor: Tsangyao (T.Y.) Chen, Ph.D.
-office: 
+office: Fulton 102C
 email: 
 phone: 
 schedule: 
 location: 
-office_hours: 
+office_hours: See Joess or by appointmnet
 office_hours_location: 
 TA: 
 TA_email: 
