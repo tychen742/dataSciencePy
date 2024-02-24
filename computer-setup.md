@@ -3,11 +3,16 @@ layout: page
 title: Computer Setup
 ---
 
-***We will use R starting week 2 and gradually introduce Git and SQL. You are encouraged to set up your computer during the first week so you will be ready when we bring them up in class.***
+***We will use Python and gradually introduce Git and SQL. You are encouraged to set up your computer during the first week so you will be ready when we bring them up in class.***
 
-### R
+### Python
 
-Download and install the [R base system](http://cran.rstudio.com/) and [RStudio](http://www.rstudio.com/products/rstudio/download/). Both are needed. Installing RStudio will not automatically install R.
+Download and install [Python](http://cran.rstudio.com/) (choose one major point version behind the current version). 
+
+### VS Code
+
+### Jupyter Notebook
+
 
 ### GitHub
 
@@ -56,24 +61,6 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
    information will come up, including a list of common commands. If this
    doesn't work, see additional instructions below.
 2. Instal through the [git website](https://git-scm.com/) by downloading the lastest release. 
-
-3. Check if git and RStudio are talking to each other:
-    1. Open RStudio
-    2. File -> New Project -> Version Control -> Git
-    3. If you reach a page called `Clone Git Repository` with some fields to
-       fill out everything is working
-
-
-
-If git and RStudio aren't talking to each other (i.e., you don't get the expect
-result from Step 3 above), try the following:
-
-1. Open RStudio
-2. Select the `Tools` menu -> `Global Options` -> `Git/SVN`
-3. Next to `Git executable` click `Browse`
-4. Navigate to `usr/local/bin/` and double click on `git` (this should change
-   the value in `Git executable` from `/usr/bin/git` to `/usr/local/bin/git`)
-5. Click `OK`
 
 #### Linux
 
