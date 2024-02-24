@@ -3,6 +3,7 @@ layout: page
 title: Start-Up Guide for Self-guided Students
 ---
 
+<! -- 
 ### Step 1: Make sure we can help!
 
 The [target audience]({{ site.baseurl }}/about/audience) of this course was started as university students taking course onsite and the materials you see here are built as the preview requirements before class and review/practice (exercises and exams) after class meetings. If you are a scientist at any educational level that works with data and you 1) want to learn the basics of programming or 2) want to establish a little more formal programming background and work-flow, then you are likely to benefit from this website by going through the course at your own pace. As we add more self-guided learning features to automate and optimize the modules in this course, you are welcome to take advantage of the improvements. 
@@ -18,9 +19,14 @@ As a self-guided student, you can 1) follow along with the whole course at your 
 *If you are interested in the Python material, the [lesson material]({{ site.baseurl }}/materials/) and [assignments]({{ site.baseurl }}/assignments/) developed in previous iterations of the course are still available, but with less direction.*
 
 ### Step 3: Setup your computer
+-->
+### Step 1: Setup your computer
 
 Make sure your computer is [setup]({{ site.baseurl }}/computer-setup).
 
+<!--
 ### Step 4: Give us feedback
+-->
+### Step 2: Give us feedback
 
 Help us make sure you have a good experience by [providing feedback]({{ site.github.repo }}/issues).
