@@ -72,4 +72,4 @@ and for Fedora run `sudo yum install git`.
 
 Download and install [DB Browser for SQLite](http://sqlitebrowser.org/)
 
-[^1] Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See <a href="https://semver.org/" target="_blank">
+[^1]: Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See <a href="https://semver.org/" target="_blank">
