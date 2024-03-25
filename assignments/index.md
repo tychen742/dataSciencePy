@@ -29,8 +29,7 @@ title: Assignments
 
 ### Python
 
-*Python assignments were used in [previous iterations](http://www.programmingforbiologists.org/) of the course at Utah State University, but
-are no longer under active development.*
+*Python assignments.*
 
 * [Assignment 1](python-1)
 * [Assignment 2](python-2)
