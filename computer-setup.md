@@ -7,9 +7,10 @@ title: Computer Setup
 
 ### Python
 
-Download and install [Python](https://www.python.org/downloads/) (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
+Download and install [Python](https://www.python.org/downloads/){:target="_blank"} (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
 
 ### VS Code
+Download the most recent stable build of [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} (VSCode/VS Code).
 
 ### Jupyter Notebook
 
