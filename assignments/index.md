@@ -8,7 +8,7 @@ title: Assignments
 * [Introduction to Databases](sql-data)
 * [Database Structure and Joins](sql-queries)
 
-### R
+### Python
 
 * [Introduction to Python and VS Code](py-intro)
 * [Working with Data](py-data)
@@ -25,7 +25,7 @@ title: Assignments
 * [Review](py-review)
 
 ### Git
-* [Git with R](py-git)
+* [Git with Python](py-git)
 
 ### Python
 
