@@ -10,8 +10,8 @@ title: Assignments
 
 ### R
 
-* [Introduction to R and RStudio](r-intro)
-* [Working with Data](r-data)
+* [Introduction to Python and VS Code](py-intro)
+* [Working with Data](py-data)
 * [Data Visualization](r-datavis)
 * [Programming Fundamentals 1](r-fundamentals-1)
 * [Programming Fundamentals 2](r-fundamentals-2)
