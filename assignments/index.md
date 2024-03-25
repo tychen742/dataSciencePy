@@ -12,20 +12,20 @@ title: Assignments
 
 * [Introduction to Python and VS Code](py-intro)
 * [Working with Data](py-data)
-* [Data Visualization](r-datavis)
-* [Programming Fundamentals 1](r-fundamentals-1)
-* [Programming Fundamentals 2](r-fundamentals-2)
-* [Working with Spatial Data](r-spatial)
-* [Working with Databases](r-databases)
-* [Version Control Basics](r-git)
-* [Putting It All Together](r-capstone)
-* [String Exercises](r-strings)
-* [Low-level Database Management Libraries](r-sql)
-* [Advanced Topics](r-advanced)
-* [Review](r-review)
+* [Data Visualization](py-datavis)
+* [Programming Fundamentals 1](py-fundamentals-1)
+* [Programming Fundamentals 2](py-fundamentals-2)
+* [Working with Spatial Data](py-spatial)
+* [Working with Databases](py-databases)
+* [Version Control Basics](py-git)
+* [Putting It All Together](py-capstone)
+* [String Exercises](py-strings)
+* [Low-level Database Management Libraries](py-sql)
+* [Advanced Topics](py-advanced)
+* [Review](py-review)
 
 ### Git
-* [Git with R](r-git)
+* [Git with R](py-git)
 
 ### Python
 
