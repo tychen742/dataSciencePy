@@ -2,7 +2,7 @@
 layout: page
 element: assignment
 title: Data Visualization 2
-language: R
+language: Python
 exercises: []
 points: []
 ---
