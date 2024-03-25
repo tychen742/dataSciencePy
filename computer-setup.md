@@ -3,11 +3,11 @@ layout: page
 title: Computer Setup
 ---
 
-***We will use Python and gradually introduce Git and SQL. You are encouraged to set up your computer during the first week so you will be ready when we bring them up in class.***
+***We will use Python and introduce Git and SQL. You are encouraged to set up your computer during the first week so you will be ready when we bring them up in class.***
 
 ### Python
 
-Download and install [Python](http://cran.rstudio.com/) (choose one major point version behind the current version). 
+Download and install [Python](https://www.python.org/downloads/) (choose one major point version behind the current version). 
 
 ### VS Code
 
