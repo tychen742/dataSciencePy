@@ -7,7 +7,7 @@ title: Computer Setup
 
 ### Python
 
-Download and install [Python](https://www.python.org/downloads/) (choose one major point version behind the current version). 
+Download and install [Python](https://www.python.org/downloads/) (choose one <a href="https://semver.org/" target="_blank">minor version behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
 
 ### VS Code
 
