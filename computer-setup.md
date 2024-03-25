@@ -7,7 +7,7 @@ title: Computer Setup
 
 ### Python
 
-Download and install [Python](https://www.python.org/downloads/) (choose one <a href="https://semver.org/" target="_blank">minor version behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
+Download and install [Python](https://www.python.org/downloads/) (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
 
 ### VS Code
 
@@ -72,3 +72,4 @@ and for Fedora run `sudo yum install git`.
 
 Download and install [DB Browser for SQLite](http://sqlitebrowser.org/)
 
+[^1] Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See <a href="https://semver.org/" target="_blank">
