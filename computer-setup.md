@@ -9,6 +9,13 @@ title: Computer Setup
 
 Download and install [Python](https://www.python.org/downloads/){:target="_blank"} (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
 
+### Python Virtual Environments
+A Python virtual environment allows the developer to work separately from the system-installed Python. Specific Python version and required software dependencies (site-packages) are kept together in individual projects. Inside your project folder, create a virtual environment by python -m venv /path/to/new/virtual/environment
+
+### pip and PyPI
+pip is the package installer for Python and is shipped with Python. 
+[The Python Package Index](https://pypi.org/){:target="_blanc"} (PyPI) is an official third-party software repository for the Python programming language. PyPI is supported by the Python Software Foundation.
+
 ### VS Code
 Download the most recent stable build of [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} (VSCode/VS Code).
 
