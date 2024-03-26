@@ -34,3 +34,6 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-paginate
+
+minima:
+  skin: dark
