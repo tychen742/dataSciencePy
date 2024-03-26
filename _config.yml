@@ -36,4 +36,4 @@ plugins:
   - jekyll-paginate
 
 minima:
-  skin: dark
+  skin: dark  
