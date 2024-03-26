@@ -23,7 +23,7 @@ With venv enabled, install jupyter Notebook with `pip install notebook`. Toe run
 
 ### GitHub
 
-1. Create an account on GitHub (https://github.com).
+1. Create an account on [GitHub](https://github.com).
 2. Email your username to your instructor.
 3. Once your instructor adds you to the course GitHub organization, you will
    receive an email asking you to accept the invitation. Click on the link to accept.
