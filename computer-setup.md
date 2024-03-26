@@ -9,15 +9,14 @@ title: Computer Setup
 
 Download and install [Python](https://www.python.org/downloads/){:target="_blank"} (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
 
-### Python Virtual Environments
-A Python virtual environment allows the developer to work separately from the system-installed Python. Specific Python version and required software dependencies (site-packages) are kept together in individual projects. Inside your project folder, create a virtual environment by entering `python -m venv /path/of/virtual/environment` (as a convention use `.venv` for path) in the command line.  
+### venv and pip
 
-### pip and PyPI
-pip is the package installer for Python and is shipped with Python. 
-[The Python Package Index](https://pypi.org/){:target="_blanc"} (PyPI) is an official third-party software repository for the Python programming language. PyPI is supported by the Python Software Foundation.
+A Python virtual environment keeps specific Python version and required software dependencies of a project separate from the system-installed Python and packages. Inside your project folder, create a virtual environment by issuing `python -m venv .venv` (`.venv` is a convention but your can use any pathname) in the command line. To activate the venv, issue `source .venv/bin/activate` and your will see `(.venv)` in the front of the shell prompt denoting the venv activated. 
+
+With `venv` activated, use `pip`, the package managemnet software for Python, to install packages and the packages will be installed in `.venv/lib/python<i>VERSION</i>/site-packages`. 
 
 ### VS Code
-Download the most recent stable build of [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} (VSCode/VS Code).
+Download and install the most recent stable build of [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} (VSCode/VS Code). Learn how to set up VSCode by watchign a video such as [Setup Visual Studio Code](https://code.visualstudio.com/learn/get-started/basics). 
 
 ### Jupyter Notebook
 
