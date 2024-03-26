@@ -11,7 +11,7 @@ Download and install [Python](https://www.python.org/downloads/){:target="_blank
 
 ### venv and pip
 
-A Python virtual environment keeps specific Python version and required software dependencies of a project separate from the system-installed Python and packages. Inside your project folder, create a virtual environment by issuing `python -m venv .venv` (`.venv` is a convention but your can use any pathname) in the command line. To activate the venv, issue `source .venv/bin/activate` and your will see `(.venv)` in the front of the shell prompt denoting the venv activated. 
+A Python virtual environment keeps specific Python version and required software dependencies of a project separate from the system-installed Python and packages. Inside your project folder, create a virtual environment by issuing `python3.12 -m venv .venv`[^2] in the command line. To activate the venv, issue `source .venv/bin/activate` and your will see `(.venv)` in the front of the shell prompt denoting the venv activated. 
 
 With `venv` activated, use `pip`, the package managemnet software for Python, to install packages and the packages will be installed in `.venv/lib/python<i>VERSION</i>/site-packages`. 
 
@@ -32,7 +32,7 @@ With venv enabled, install jupyter Notebook with `pip install notebook`. Toe run
 Issue `git --version` at terminal to check if git is installed. If not, 
 1. go to [git-scm.com](https://git-scm.org), download and install git; or 
 2. Depends on your operating system:
-   1. Linux: Debian/Ubuntu run `sudo apt install git` and for Fedora run `sudo yum install git`.
+   1. Linux: `sudo apt install git` for Debian/Ubuntu and `sudo yum install git` for Fedora.
    2. macOS: `brew install git` (install [Homebrew](https://brew.sh) first). 
    3. Windows: use [Git for Windows](https://gitforwindows.org/). 
 
@@ -42,3 +42,4 @@ Issue `git --version` at terminal to check if git is installed. If not,
 Download and install [DB Browser for SQLite](http://sqlitebrowser.org/)
 
 [^1]: Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See <a href="https://semver.org/" target="_blank">
+[^2]: `.venv`is a convention and you can name the virtual environment folder anything you want. Note that `python3.12 -m venv .venv` will create the venv with Python version 3.12 whereas `python -m venv .venv`will create the venv with the version of your system default Python. Here`-m`means "module" so you know that here python is running the`venv`module to create a virtual environment.  
