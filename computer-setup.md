@@ -39,12 +39,12 @@ Issue`git --version`at terminal to check if git is installed. If not,
 
 ### SQL
 
-Download and install [DB Browser for SQLite](http://sqlitebrowser.org/)
+Download and install [DB Browser for SQLite](http://sqlitebrowser.org/){:target="_blank"}
 
 
 ***
 
-Notes:
+#### Notes:
 
-[^1]: Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See <a href="https://semver.org/" target="_blank">
+[^1]: Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See [semver.org](https://semver.org/){:target="_blank"}. 
 [^2]:`.venv`is a convention and you can name the virtual environment folder anything you want. Note that`python3.12 -m venv .venv`will create the venv with Python version 3.12 whereas`python -m venv .venv`will create the venv with the version of your system default Python. Here`-m`means "module" so you know that here python is running the`venv`module to create a virtual environment.  
