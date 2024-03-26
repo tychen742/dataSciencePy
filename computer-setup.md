@@ -16,10 +16,10 @@ A Python virtual environment keeps specific Python version and required software
 With `venv` activated, use `pip`, the package managemnet software for Python, to install packages and the packages will be installed in `.venv/lib/python<i>VERSION</i>/site-packages`. 
 
 ### VS Code
-Download and install the most recent stable build of [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} (VSCode/VS Code). Learn how to set up VSCode by watchign a video such as [Setup Visual Studio Code](https://code.visualstudio.com/learn/get-started/basics). 
+Download and install the most recent stable build of [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} (VSCode/VS Code), an extension-based code editor. Learn how to set up VSCode by watchign a video such as [Setup Visual Studio Code](https://code.visualstudio.com/learn/get-started/basics). 
 
 ### Jupyter Notebook
-
+With venv enabled, install jupyter Notebook with `pip install notebook`. Toe run the notebook, go to the command line, change into your Jupyter Notebook project directory, and run `jupyter notebook`. You should see the project directory open in browser. Click on `New` --> `Python3(ipykernel)` to create a new notebook. 
 
 ### GitHub
 
@@ -27,11 +27,7 @@ Download and install the most recent stable build of [Visual Studio Code](https:
 2. Email your username to your instructor.
 3. Once your instructor adds you to the course GitHub organization, you will
    receive an email asking you to accept the invitation. Click on the link to accept.
-4. Check if this worked
-    1. Go to [https://github.com](https://github.com).
-    2. Sign in if necessary.
-    3. In the upper left corner click on the drop down with your name.
-    4. Confirm that the name of the course GitHub organization is present.
+4. Go to github.com and click on the drop down with your name in the upper left corner. You should see the name of the course GitHub organization.
 
 ### Git
 
