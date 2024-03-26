@@ -5,6 +5,10 @@ title: Computer Setup
 
 ***You are encouraged to set up your computer before the end of the first week of the class.***
 
+### Terminal/CLI
+
+
+
 ### Python
 
 Download and install [Python](https://www.python.org/downloads/){:target="_blank"} (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
@@ -46,5 +50,5 @@ Download and install [DB Browser for SQLite](http://sqlitebrowser.org/){:target=
 
 #### Notes:
 
-[^1]: Semenatic versioning suggests a version number in the format of MAJOR.MINOR.PATCH and increment in specific condition. See [semver.org](https://semver.org/){:target="_blank"}. 
+[^1]: Semenatic Versioning suggests version numbers in the format of MAJOR.MINOR.PATCH and each segment increments in specific conditions. See [semver.org](https://semver.org/){:target="_blank"} for more information about versioning. 
 [^2]:`.venv`is a convention and you can name the virtual environment folder anything you want. Note that`python3.12 -m venv .venv`will create the venv with Python version 3.12 whereas`python -m venv .venv`will create the venv with the version of your system default Python. Here`-m`means "module" so you know that here python is running the`venv`module to create a virtual environment.  
