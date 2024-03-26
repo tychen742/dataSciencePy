@@ -10,7 +10,7 @@ title: Computer Setup
 Download and install [Python](https://www.python.org/downloads/){:target="_blank"} (choose one minor version[^1] behind the current version; e.g., if the current version is 3.13, download 3.12 instead). 
 
 ### Python Virtual Environments
-A Python virtual environment allows the developer to work separately from the system-installed Python. Specific Python version and required software dependencies (site-packages) are kept together in individual projects. Inside your project folder, create a virtual environment by python -m venv /path/to/new/virtual/environment
+A Python virtual environment allows the developer to work separately from the system-installed Python. Specific Python version and required software dependencies (site-packages) are kept together in individual projects. Inside your project folder, create a virtual environment by entering `python -m venv /path/of/virtual/environment` (as a convention use `.venv` for path) in the command line.  
 
 ### pip and PyPI
 pip is the package installer for Python and is shipped with Python. 
