@@ -29,3 +29,6 @@ github:
 # theme:            minima
 theme: jekyll-theme-minimal
 
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-sitemap
