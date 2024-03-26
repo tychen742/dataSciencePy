@@ -21,55 +21,21 @@ Download and install the most recent stable build of [Visual Studio Code](https:
 ### Jupyter Notebook
 With venv enabled, install jupyter Notebook with `pip install notebook`. Toe run the notebook, go to the command line, change into your Jupyter Notebook project directory, and run `jupyter notebook`. You should see the project directory open in browser. Click on `New` --> `Python3(ipykernel)` to create a new notebook. 
 
-### GitHub
+### Git and GitHub
 
 1. Create an account on [GitHub](https://github.com).
-2. Email your username to your instructor.
-3. Once your instructor adds you to the course GitHub organization, you will
-   receive an email asking you to accept the invitation. Click on the link to accept.
+2. Send your Github username to your instructor.
+3. Once your instructor adds you to the course GitHub organization, you will receive an email asking you to join the organization. Accept the invitation.
 4. Go to github.com and click on the drop down with your name in the upper left corner. You should see the name of the course GitHub organization.
 
-### Git
 
-#### Windows
+Issue `git --version` at terminal to check if git is installed. If not, 
+1. go to [git-scm.com](https://git-scm.org), download and install git; or 
+2. Depends on your operating system:
+   1. Linux: Debian/Ubuntu run `sudo apt install git` and for Fedora run `sudo yum install git`.
+   2. macOS: `brew install git` (install [Homebrew](https://brew.sh) first). 
+   3. Windows: use [Git for Windows](https://gitforwindows.org/). 
 
-1.  Install Git for Windows
-    [installer](https://gitforwindows.org/).
-2.  Run the installer and follow the steps bellow:
-    1. Click on "Next".
-    2. Click on "Next".
-    3. Keep "Use Git from the Windows Command Prompt" selected and click on
-       "Next". If you forgot to do the integration, with R will not work
-       properly. If this happens, rerun the installer and select the appropriate
-       option.
-    4. Click on "Next".
-    5. Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
-    6. Keep "Use Windows' default console window" selected and click on "Next".
-    7. Click on "Install".
-    8. Click on "Finish".
-3. Check if the installation is working:
-    1. Open RStudio
-    2. File -> New Project -> Version Control -> Git
-    3. If you reach a page called `Clone Git Repository` with some fields to fill out everything is working
-
-#### macOS 
-*There are two ways to install git on your macOS. Pick one.*
-1. Install through macOS Terminal:
-    1. Open up the Terminal (command+space), type in "git" and press enter.
-    2. This should cause a pop-up window to appear. It will have several options;
-   click on "Install" (not "Get Xcode").
-    3. Click "Agree".
-    4. When the install is finished, click "Done".
-    5. To make sure this works, type in "git" in the Terminal and press enter. Some
-   information will come up, including a list of common commands. If this
-   doesn't work, see additional instructions below.
-2. Instal through the [git website](https://git-scm.com/) by downloading the lastest release. 
-
-#### Linux
-
-Git is probably already installed. If it is not already available install it via
-your distro's package manager. For Debian/Ubuntu run `sudo apt install git`
-and for Fedora run `sudo yum install git`.
 
 ### SQL
 
