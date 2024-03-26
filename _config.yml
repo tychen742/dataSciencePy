@@ -33,3 +33,4 @@ theme: jekyll-theme-minima
 plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-paginate
