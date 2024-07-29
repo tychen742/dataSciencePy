@@ -25,4 +25,9 @@ html_theme = 'alabaster'
 # html_theme = 'furo'
 # html_static_path = ['_static']
 
+<<<<<<< HEAD
 html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
+=======
+html_sidebars = { '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'] }
+
+>>>>>>> e171ce2 (committed @ 2024-0729-135657)
